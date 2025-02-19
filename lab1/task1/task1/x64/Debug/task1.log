@@ -1,0 +1,110 @@
+﻿  task1.cpp
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(25,27): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(48,27): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(91,22): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(91,22): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(92,22): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(92,22): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(93,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(93,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(94,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(94,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(95,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(95,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(96,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(96,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(99,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(99,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(104,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(104,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(105,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(105,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(106,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(106,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(112,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(112,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(113,22): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(113,22): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(114,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(114,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(115,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(115,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(116,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(116,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(117,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(117,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(120,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+C:\Users\User\source\repos\CG\lab1\task1\task1.h(120,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "task1.cpp")
+  
+  task1.vcxproj -> C:\Users\User\source\repos\CG\lab1\task1\x64\Debug\task1.exe

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|solutionrelative:task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\task1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|solutionrelative:task1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\task1.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|solutionrelative:task1.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\small.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|solutionrelative:small.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|solutionrelative:targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2753972-696B-4617-B44F-979F7A8304EC}|task1.vcxproj|solutionrelative:framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 384,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 138,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\task1.cpp",
+              "RelativeDocumentMoniker": "task1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\task1.cpp",
+              "RelativeToolTip": "task1.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJ0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T09:40:58.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task1.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\task1.h",
+              "RelativeDocumentMoniker": "task1.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\task1.h",
+              "RelativeToolTip": "task1.h",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAqwIMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-17T09:44:12.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task1.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\task1.ico",
+              "RelativeDocumentMoniker": "task1.ico",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\task1.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "task1.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-02-17T09:44:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "small.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\small.ico",
+              "RelativeDocumentMoniker": "small.ico",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\small.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "small.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-02-17T09:44:18.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "targetver.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\targetver.h",
+              "RelativeDocumentMoniker": "targetver.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\targetver.h",
+              "RelativeToolTip": "targetver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-17T09:44:08.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-17T09:44:05.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\framework.h",
+              "RelativeDocumentMoniker": "framework.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CG\\lab1\\task1\\framework.h",
+              "RelativeToolTip": "framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-17T09:43:56.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
